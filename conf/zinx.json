@@ -1,0 +1,11 @@
+{
+  "Name":"zinx v-0.10 demoApp",
+  "Host":"127.0.0.1",
+  "TcpPort":7777,
+  "MaxConn":3,
+  "WorkerPoolSize":10,
+  "LogDir": "./mylog",
+  "LogFile":"zinx.log",
+  "EtcdIps":["10.1.1.248:2379", "10.1.1.43:2379", "10.1.1.239:2379"],
+  "EtcdDialTimeout":5
+}
